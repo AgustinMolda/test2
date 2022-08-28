@@ -1,2 +1,6 @@
 config
+<<<<<<< HEAD
 Nueva configuración
+=======
+Otra configuracion
+>>>>>>> 1e99599c925057d48fc3bb4c7c00f4bd05d79e48
